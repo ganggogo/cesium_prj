@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" x="0px" width="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" height="48px">
+    <g id="残积土">
+        <g id="残积土_1_">
+            <text transform="matrix(0.923 0 0 1 8.3345 41.6113)" fill="#040000" font-family="'SimSun'" font-size="16.2518">e1</text>
+            <text transform="matrix(0.923 0 0 1 27 13.8467)" fill="#040000" font-family="'SimSun'" font-size="16.2518">e1</text>
+            <line y1="0.479" fill="none" stroke-miterlimit="10" x2="0" y2="13.309" stroke="#040000" x1="12.96"/>
+            <line y1="6.894" fill="none" stroke-miterlimit="10" x2="0" y2="31.089" stroke="#040000" x1="23.936"/>
+            <line y1="7.908" fill="none" stroke-miterlimit="10" x2="25.708" y2="30.059" stroke="#040000" x1="48"/>
+            <line y1="36.368" fill="none" stroke-miterlimit="10" x2="36.459" y2="47.795" stroke="#040000" x1="48"/>
+            <line y1="43.298" fill="none" stroke-miterlimit="10" x2="1.167" y2="48" stroke="#040000" x1="5.917"/>
+        </g>
+    </g>
+</svg>

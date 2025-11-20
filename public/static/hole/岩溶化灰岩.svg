@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" x="0px" width="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" height="48px">
+    <g id="岩溶化灰岩">
+        <line y1="10.128" fill="none" stroke-miterlimit="10" x2="48" y2="10.128" stroke="#000000" x1="0"/>
+        <line y1="21.338" fill="none" stroke-miterlimit="10" x2="48" y2="21.338" stroke="#000000" x1="0"/>
+        <line y1="32.58" fill="none" stroke-miterlimit="10" x2="48" y2="32.58" stroke="#000000" x1="0"/>
+        <line y1="43.999" fill="none" stroke-miterlimit="10" x2="48" y2="43.999" stroke="#000000" x1="0"/>
+        <line y1="1" fill="none" stroke-miterlimit="10" x2="9.677" y2="10.128" stroke="#000000" x1="9.677"/>
+        <line y1="21.709" fill="none" stroke-miterlimit="10" x2="9.677" y2="32.58" stroke="#000000" x1="9.677"/>
+        <line y1="43.999" fill="none" stroke-miterlimit="10" x2="9.355" y2="49" stroke="#000000" x1="9.355"/>
+        <line y1="10.128" fill="none" stroke-miterlimit="10" x2="36.693" y2="21.338" stroke="#000000" x1="36.693"/>
+        <line y1="32.58" fill="none" stroke-miterlimit="10" x2="36.693" y2="43.645" stroke="#000000" x1="36.693"/>
+        <polygon fill="#3E3A39" points="23.721,16.815 29.939,11.633 29.939,19.845 39.667,20.244 34.006,22.477 25.634,38.821 &#xa;&#x9;&#x9;27.468,25.228 12.957,31.964 20.133,26.503 8.333,21.44 19.654,20.005 12.399,15.301 &#x9;"/>
+    </g>
+</svg>

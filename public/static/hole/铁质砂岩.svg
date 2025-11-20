@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" x="0px" width="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" height="48px">
+    <g id="铁质砂岩">
+        <g id="铁质砂岩_1_">
+            <line y1="5.028" fill="none" stroke-miterlimit="10" x2="48" y2="5.028" stroke="#AE8047" x1="0"/>
+            <line y1="42.611" fill="none" stroke-miterlimit="10" x2="48" y2="42.611" stroke="#AE8047" x1="0"/>
+            <line y1="17.612" fill="none" stroke-miterlimit="10" x2="48" y2="17.612" stroke="#AE8047" x1="0"/>
+            <line y1="31.195" fill="none" stroke-miterlimit="10" x2="48" y2="31.195" stroke="#AE8047" x1="0"/>
+            <text transform="matrix(1 0 0 1 26.335 15.3613)" fill="#AE8047" font-family="'SimSun'" font-size="12">Fe</text>
+            <text transform="matrix(1 0 0 1 5.335 28.6113)" fill="#AE8047" font-family="'SimSun'" font-size="12">Fe</text>
+            <circle r="1.416" stroke-width="0.5" cx="43.084" cy="11.778" fill="none" stroke-miterlimit="10" stroke="#AE8047"/>
+            <circle r="1.416" stroke-width="0.5" cx="10.032" cy="11.778" fill="none" stroke-miterlimit="10" stroke="#AE8047"/>
+            <circle r="1.416" stroke-width="0.5" cx="39.084" cy="23.778" fill="none" stroke-miterlimit="10" stroke="#AE8047"/>
+            <circle r="1.416" stroke-width="0.5" cx="28.213" cy="24" fill="none" stroke-miterlimit="10" stroke="#AE8047"/>
+            <text transform="matrix(1 0 0 1 26.7188 41.3613)" fill="#AE8047" font-family="'SimSun'" font-size="12">Fe</text>
+            <circle r="1.416" stroke-width="0.5" cx="43.468" cy="37.777" fill="none" stroke-miterlimit="10" stroke="#AE8047"/>
+            <circle r="1.416" stroke-width="0.5" cx="10.416" cy="37.777" fill="none" stroke-miterlimit="10" stroke="#AE8047"/>
+        </g>
+    </g>
+</svg>

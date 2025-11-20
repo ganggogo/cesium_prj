@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<link rel="icon" href="<%= BASE_URL %>favicon.ico">
+	<link rel="stylesheet" href="./static/lib/Cesium/Widgets/widgets.css" type="text/css">
+	<!-- <script src="./static/lib/Cesium/cesium_cfg.js" type="text/javascript"></script> --> <!-- 24版Cesium静态配置 -->
+	<script src="./static/lib/Cesium/modelws_cfg.js" type="text/javascript"></script>  <!-- 25版Cesium动态配置 -->
+	<script src="./static/lib/Cesium/Cesium.js" type="text/javascript"></script>
+	<script src="./zlib.min.js" type="text/javascript"></script>
+	<script src="./static/lib/cxe/cxe.js"></script>
+	<!-- <title><%= htmlWebpackPlugin.options.title %></title> -->
+	 <!-- <script src="http://192.168.2.122:18889/modelWsD/libs/earcut.min.js"></script> -->
+	<title>my_prj1-http</title>
+</head>
+
+<body>
+	<noscript>
+		<strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled.
+				Please enable it to continue.</strong>
+	</noscript>
+	<script>
+		var modelxhr = new XMLHttpRequest();
+		function queryTileByAjax(url) {
+			modelxhr.open('GET', url, true)
+			const startTime = performance.now(), flag = url.split('/').slice(-1)[0].replace(/\n|\t/g, '') // 去除\n \t字符
+			modelxhr.responseType = 'arraybuffer'
+			modelxhr.onload = function () {
+				if (modelxhr.status >= 200 && modelxhr.status < 300) {
+					console.log(modelxhr.response)
+				} else {
+					console.error('Error status:', modelxhr.status);
+				}
+			};
+			modelxhr.onerror = function () {
+				console.error('Request error...');
+			};
+			modelxhr.send()
+		}
+
+		let testArr = [
+			'modelUrlFrom2249900/sunan_gcdz_model/工程地质模型/83500B01-5D84-4573-9546-4641721C2C91.b3dm',
+			'modelUrlFrom2249900/sunan_gcdz_model/工程地质模型/83500B01-5D84-4573-9546-4641721C2C91.b3dm',
+			'modelUrlFrom2249900/sunan_gcdz_model/工程地质模型/83500B01-5D84-4573-9546-4641721C2C91.b3dm',
+			'modelUrlFrom2249900/sunan_gcdz_model/工程地质模型/83500B01-5D84-4573-9546-4641721C2C91.b3dm',
+			'modelUrlFrom2249900/sunan_gcdz_model/工程地质模型/83500B01-5D84-4573-9546-4641721C2C91.b3dm',
+			'modelUrlFrom2249900/sunan_gcdz_model/工程地质模型/83500B01-5D84-4573-9546-4641721C2C91.b3dm',
+			'modelUrlFrom2249900/sunan_gcdz_model/工程地质模型/83500B01-5D84-4573-9546-4641721C2C91.b3dm',
+			'modelUrlFrom2249900/sunan_gcdz_model/工程地质模型/83500B01-5D84-4573-9546-4641721C2C91.b3dm',
+			'modelUrlFrom2249900/sunan_gcdz_model/工程地质模型/83500B01-5D84-4573-9546-4641721C2C91.b3dm',
+			'modelUrlFrom2249900/sunan_gcdz_model/工程地质模型/83500B01-5D84-4573-9546-4641721C2C91.b3dm',
+			'modelUrlFrom2249900/sunan_gcdz_model/工程地质模型/83500B01-5D84-4573-9546-4641721C2C91.b3dm',
+			'modelUrlFrom2249900/sunan_gcdz_model/工程地质模型/83500B01-5D84-4573-9546-4641721C2C91.b3dm',
+			'modelUrlFrom2249900/sunan_gcdz_model/工程地质模型/83500B01-5D84-4573-9546-4641721C2C91.b3dm',
+			'modelUrlFrom2249900/sunan_gcdz_model/工程地质模型/83500B01-5D84-4573-9546-4641721C2C91.b3dm'
+		]
+		//for (let i = 0; i < testArr.length; i++) {
+		//queryTileByAjax(testArr[i])
+		//}
+	</script>
+	<div id="app"></div>
+	<!-- built files will be auto injected -->
+</body>
+
+</html>

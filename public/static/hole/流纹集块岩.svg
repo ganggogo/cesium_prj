@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" x="0px" width="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" height="48px">
+    <g id="流纹集块岩">
+        <line y1="3.406" fill="none" stroke-miterlimit="10" x2="6.646" y2="7.385" stroke="#000000" x1="2.667"/>
+        <line y1="7.385" fill="none" stroke-miterlimit="10" x2="16.313" y2="3.385" stroke="#000000" x1="12.313"/>
+        <line y1="18.272" fill="none" stroke-miterlimit="10" x2="2.271" y2="22.01" stroke="#000000" x1="6.333"/>
+        <line y1="18.272" fill="none" stroke-miterlimit="10" x2="16.417" y2="22.01" stroke="#000000" x1="12.554"/>
+        <line y1="3.406" fill="none" stroke-miterlimit="10" x2="34.583" y2="7.385" stroke="#000000" x1="30.604"/>
+        <line y1="7.385" fill="none" stroke-miterlimit="10" x2="44.249" y2="3.385" stroke="#000000" x1="40.249"/>
+        <line y1="18.272" fill="none" stroke-miterlimit="10" x2="30.207" y2="22.01" stroke="#000000" x1="34.27"/>
+        <line y1="18.272" fill="none" stroke-miterlimit="10" x2="44.353" y2="22.01" stroke="#000000" x1="40.491"/>
+        <line y1="28.791" fill="none" stroke-miterlimit="10" x2="7.716" y2="32.77" stroke="#000000" x1="3.736"/>
+        <line y1="32.77" fill="none" stroke-miterlimit="10" x2="17.382" y2="28.77" stroke="#000000" x1="13.382"/>
+        <line y1="40.656" fill="none" stroke-miterlimit="10" x2="3.34" y2="44.395" stroke="#000000" x1="7.403"/>
+        <line y1="40.656" fill="none" stroke-miterlimit="10" x2="17.486" y2="44.395" stroke="#000000" x1="13.624"/>
+        <line y1="28.791" fill="none" stroke-miterlimit="10" x2="35.652" y2="32.77" stroke="#000000" x1="31.673"/>
+        <line y1="32.77" fill="none" stroke-miterlimit="10" x2="45.318" y2="28.77" stroke="#000000" x1="41.318"/>
+        <line y1="40.656" fill="none" stroke-miterlimit="10" x2="31.276" y2="44.395" stroke="#000000" x1="35.339"/>
+        <line y1="40.656" fill="none" stroke-miterlimit="10" x2="45.422" y2="44.395" stroke="#000000" x1="41.561"/>
+        <polygon fill="none" stroke-miterlimit="10" points="7.403,14.509 9.417,10.092 11.25,14.509 &#x9;" stroke="#000000"/>
+        <polygon fill="none" stroke-miterlimit="10" points="34.988,14.509 37.002,10.092 38.835,14.509 &#x9;" stroke="#000000"/>
+        <polygon fill="none" stroke-miterlimit="10" points="8.466,38.394 10.479,33.977 12.313,38.394 &#x9;" stroke="#000000"/>
+        <polygon fill="none" stroke-miterlimit="10" points="36.402,38.394 38.416,33.977 40.249,38.394 &#x9;" stroke="#000000"/>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" x="0px" width="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" height="48px">
+    <g id="混合岩">
+        <line y1="2.665" fill="none" stroke-miterlimit="10" x2="11.834" y2="11.492" stroke="#94C33A" x1="3.007"/>
+        <line y1="2.713" fill="none" stroke-miterlimit="10" x2="3.057" y2="11.443" stroke="#94C33A" x1="11.786"/>
+        <line y1="2.665" fill="none" stroke-miterlimit="10" x2="32.914" y2="11.492" stroke="#94C33A" x1="24.087"/>
+        <line y1="2.713" fill="none" stroke-miterlimit="10" x2="24.137" y2="11.443" stroke="#94C33A" x1="32.865"/>
+        <line y1="27.5" fill="none" stroke-miterlimit="10" x2="11.834" y2="36.327" stroke="#94C33A" x1="3.007"/>
+        <line y1="27.548" fill="none" stroke-miterlimit="10" x2="3.057" y2="36.278" stroke="#94C33A" x1="11.786"/>
+        <line y1="27.5" fill="none" stroke-miterlimit="10" x2="32.914" y2="36.327" stroke="#94C33A" x1="24.087"/>
+        <line y1="27.548" fill="none" stroke-miterlimit="10" x2="24.137" y2="36.278" stroke="#94C33A" x1="32.865"/>
+        <path d="M11.392,19.794c0,0,1.042-4.607,6.13,0.138&#xa;&#x9;&#x9;c4.603,4.287,6.363-1.247,5.902-1.491" fill="none" stroke-miterlimit="10" stroke="#94C33A"/>
+        <path d="M33.949,18.997c0,0,1.041-4.607,6.13,0.137&#xa;&#x9;&#x9;c4.603,4.287,6.363-1.247,5.902-1.49" fill="none" stroke-miterlimit="10" stroke="#94C33A"/>
+        <path d="M12.593,43.951c0,0,1.042-4.607,6.13,0.137&#xa;&#x9;&#x9;c4.603,4.287,6.363-1.247,5.902-1.49" fill="none" stroke-miterlimit="10" stroke="#94C33A"/>
+        <path d="M35.15,43.152c0,0,1.041-4.607,6.13,0.137&#xa;&#x9;&#x9;c4.603,4.287,6.363-1.246,5.902-1.49" fill="none" stroke-miterlimit="10" stroke="#94C33A"/>
+    </g>
+</svg>

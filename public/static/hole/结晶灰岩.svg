@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" x="0px" width="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" height="48px">
+    <g id="结晶灰岩">
+        <line y1="2.521" fill="none" stroke-miterlimit="10" x2="48" y2="2.521" stroke="#040000" x1="0"/>
+        <line y1="45.354" fill="none" stroke-miterlimit="10" x2="48" y2="45.354" stroke="#040000" x1="0"/>
+        <line y1="36.271" fill="none" stroke-miterlimit="10" x2="48" y2="36.271" stroke="#040000" x1="0"/>
+        <line y1="24.688" fill="none" stroke-miterlimit="10" x2="48" y2="24.688" stroke="#040000" x1="0"/>
+        <line y1="12.687" fill="none" stroke-miterlimit="10" x2="48" y2="12.687" stroke="#040000" x1="0"/>
+        <line y1="0" fill="none" stroke-miterlimit="10" x2="9.417" y2="2.521" stroke="#040000" x1="9.417"/>
+        <line y1="0" fill="none" stroke-miterlimit="10" x2="31.917" y2="2.521" stroke="#040000" x1="31.917"/>
+        <line y1="12.687" fill="none" stroke-miterlimit="10" x2="31.917" y2="24.688" stroke="#040000" x1="31.917"/>
+        <line y1="12.687" fill="none" stroke-miterlimit="10" x2="9.417" y2="24.688" stroke="#040000" x1="9.417"/>
+        <line y1="36.271" fill="none" stroke-miterlimit="10" x2="9.417" y2="45.354" stroke="#040000" x1="9.417"/>
+        <line y1="36.271" fill="none" stroke-miterlimit="10" x2="31.917" y2="45.354" stroke="#040000" x1="31.917"/>
+        <line y1="2.937" fill="none" stroke-miterlimit="10" x2="19.667" y2="12.687" stroke="#040000" x1="19.667"/>
+        <line y1="2.937" fill="none" stroke-miterlimit="10" x2="42.833" y2="12.687" stroke="#040000" x1="42.833"/>
+        <line y1="25.104" fill="none" stroke-miterlimit="10" x2="19.667" y2="36.271" stroke="#040000" x1="19.667"/>
+        <line y1="24.688" fill="none" stroke-miterlimit="10" x2="42.833" y2="36.271" stroke="#040000" x1="42.833"/>
+        <line y1="45.354" fill="none" stroke-miterlimit="10" x2="42.833" y2="48" stroke="#040000" x1="42.833"/>
+        <line y1="45.854" fill="none" stroke-miterlimit="10" x2="19.667" y2="48" stroke="#040000" x1="19.667"/>
+        <rect transform="matrix(0.7382 -0.6746 0.6746 0.7382 -2.5277 8.2906)" x="6.83" fill="none" width="5.172" y="4.815" stroke-miterlimit="10" stroke="#040000" height="5.172"/>
+        <rect transform="matrix(0.7383 -0.6745 0.6745 0.7383 3.3615 23.4659)" x="29.33" fill="none" width="5.172" y="4.816" stroke-miterlimit="10" stroke="#040000" height="5.172"/>
+        <rect transform="matrix(0.7383 -0.6745 0.6745 0.7383 -7.4577 18.1571)" x="17.08" fill="none" width="5.172" y="16.102" stroke-miterlimit="10" stroke="#040000" height="5.172"/>
+        <rect transform="matrix(0.7383 -0.6745 0.6745 0.7383 -1.394 33.7832)" x="40.246" fill="none" width="5.172" y="16.102" stroke-miterlimit="10" stroke="#040000" height="5.172"/>
+        <rect transform="matrix(0.7383 -0.6745 0.6745 0.7383 -17.9013 14.2533)" x="6.831" fill="none" width="5.172" y="27.609" stroke-miterlimit="10" stroke="#040000" height="5.172"/>
+        <rect transform="matrix(0.7383 -0.6745 0.6745 0.7383 -12.013 29.429)" x="29.331" fill="none" width="5.172" y="27.609" stroke-miterlimit="10" stroke="#040000" height="5.172"/>
+        <rect transform="matrix(0.7383 -0.6745 0.6745 0.7383 -22.3796 23.945)" x="17.081" fill="none" width="5.172" y="38.225" stroke-miterlimit="10" stroke="#040000" height="5.173"/>
+        <rect transform="matrix(0.7383 -0.6745 0.6745 0.7383 -16.317 39.57)" x="40.247" fill="none" width="5.172" y="38.225" stroke-miterlimit="10" stroke="#040000" height="5.173"/>
+    </g>
+</svg>

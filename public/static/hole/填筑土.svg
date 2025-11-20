@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48.707" height="48.607" viewBox="0 0 48.707 48.607">
+  <g id="填筑土" transform="translate(-3038.646 -55.646)">
+    <path id="路径_3201" data-name="路径 3201" d="M0,0H48V48H0Z" transform="translate(3039 56)" fill="none"/>
+    <g id="填筑土-2" data-name="填筑土" transform="translate(3039 56)">
+      <path id="直线_215" data-name="直线 215" d="M.354,48.154l-.707-.707,47.8-47.8.707.707Z" transform="translate(0 0.1)" fill="#595758"/>
+      <path id="直线_216" data-name="直线 216" d="M.354,16.154l-.707-.707,15.8-15.8.707.707Z" transform="translate(32.2 32.1)" fill="#595758"/>
+      <path id="直线_217" data-name="直线 217" d="M.354,16.154l-.707-.707,15.8-15.8.707.707Z" fill="#595758"/>
+      <g id="组_850" data-name="组 850">
+        <g id="组_849" data-name="组 849">
+          <path id="直线_218" data-name="直线 218" d="M.354,4.554l-.707-.707,4.2-4.2.707.707Z" transform="translate(0.1 27.4)" fill="#595758"/>
+          <path id="直线_219" data-name="直线 219" d="M.355,11.852l-.71-.7L7.266,3.46l.71.7Z" transform="translate(12 8.2)" fill="#595758"/>
+          <path id="直线_220" data-name="直线 220" d="M.354,4.554l-.707-.707,4.2-4.2.707.707Z" transform="translate(27.3 0.1)" fill="#595758"/>
+        </g>
+      </g>
+      <g id="组_852" data-name="组 852">
+        <g id="组_851" data-name="组 851">
+          <path id="直线_221" data-name="直线 221" d="M.354,4.554l-.707-.707,4.2-4.2.707.707Z" transform="translate(16.5 43.7)" fill="#595758"/>
+          <path id="直线_222" data-name="直线 222" d="M.354,11.754l-.707-.707L7.285,3.408l.707.707Z" transform="translate(28.4 24.6)" fill="#595758"/>
+          <path id="直线_223" data-name="直线 223" d="M.354,4.554l-.707-.707,4.2-4.2.707.707Z" transform="translate(43.7 16.5)" fill="#595758"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg y="0px" xmlns="http://www.w3.org/2000/svg" x="0px" xml:space="preserve" width="48px" enable-background="new 0 0 48 48" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48" height="48px">
+    <g id="碎石土">
+        <polygon fill="none" stroke-miterlimit="10" stroke="#231815" points="1.328,10.033 1.994,6.513 6.37,1.424 5.99,7.322 &#xa;&#x9;&#x9;9.24,10.786 &#x9;"/>
+        <line x1="9.24" fill="none" stroke-miterlimit="10" y2="8.274" x2="22.045" stroke="#231815" y1="21.384"/>
+        <line x1="1.328" fill="none" stroke-miterlimit="10" y2="37.329" x2="11.469" stroke="#231815" y1="47.695"/>
+        <line x1="23.454" fill="none" stroke-miterlimit="10" y2="16.62" x2="33.591" stroke="#231815" y1="26.696"/>
+        <line x1="42.033" fill="none" stroke-miterlimit="10" y2="0" x2="48" stroke="#231815" y1="6.105"/>
+        <line x1="40.433" fill="none" stroke-miterlimit="10" y2="24.905" x2="48" stroke="#231815" y1="32.146"/>
+        <line x1="29.914" fill="none" stroke-miterlimit="10" y2="48" x2="23.054" stroke="#231815" y1="41.217"/>
+        <polygon fill="none" stroke-miterlimit="10" stroke="#231815" points="14.133,34.081 14.799,30.561 19.175,25.472 18.795,31.37 &#xa;&#x9;&#x9;22.045,34.834 &#x9;"/>
+        <polygon fill="none" stroke-miterlimit="10" stroke="#231815" points="33.225,39.347 33.891,35.826 38.267,30.737 37.887,36.636 &#xa;&#x9;&#x9;41.137,40.1 &#x9;"/>
+        <polygon fill="none" stroke-miterlimit="10" stroke="#231815" points="3.108,25.473 3.108,20.302 8.792,25.473 &#x9;"/>
+        <polygon fill="none" stroke-miterlimit="10" stroke="#231815" points="35.936,14.877 35.936,6.695 44.93,14.877 &#x9;"/>
+        <polygon fill="none" stroke-miterlimit="10" stroke="#231815" points="25.256,6.105 25.256,1.866 29.914,6.105 &#x9;"/>
+    </g>
+</svg>

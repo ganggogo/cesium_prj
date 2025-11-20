@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" x="0px" width="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" height="48px">
+    <g id="辉斑玄武岩">
+        <line y1="3.729" fill="none" stroke-miterlimit="10" x2="1.958" y2="12.646" stroke="#000000" x1="10.875"/>
+        <line y1="3.729" fill="none" stroke-miterlimit="10" x2="10.875" y2="12.646" stroke="#000000" x1="1.958"/>
+        <polyline fill="none" stroke-miterlimit="10" points="26.209,13 26.209,3.375 33.209,3.375 33.209,7.5 &#x9;" stroke="#000000"/>
+        <line y1="18.729" fill="none" stroke-miterlimit="10" x2="14.458" y2="27.646" stroke="#000000" x1="23.375"/>
+        <line y1="18.729" fill="none" stroke-miterlimit="10" x2="23.375" y2="27.646" stroke="#000000" x1="14.458"/>
+        <polyline fill="none" stroke-miterlimit="10" points="38.584,28 38.584,18.375 45.584,18.375 45.584,22.5 &#x9;" stroke="#000000"/>
+        <polyline fill="none" stroke-miterlimit="10" points="2.417,43.709 2.417,34.084 9.417,34.084 9.417,38.209 &#x9;" stroke="#000000"/>
+        <line y1="33.541" fill="none" stroke-miterlimit="10" x2="26.209" y2="42.457" stroke="#000000" x1="35.125"/>
+        <line y1="33.541" fill="none" stroke-miterlimit="10" x2="35.125" y2="42.457" stroke="#000000" x1="26.209"/>
+    </g>
+</svg>
