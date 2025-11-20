@@ -1,0 +1,21 @@
+{
+  "name": "cesium-ws-patch",
+  "version": "1.3.1",
+  "description": "Cesium WebSocket 多连接补丁，支持请求耗时统计、负载均衡、超时重试等功能",
+  "private": false,
+	"main": "index.umd.min.js",
+  "module": "index.umd.min.js",
+	"keywords": ["cesium",
+    "websocket",
+    "patch",
+    "3d-tiles",
+    "load-balancing"],
+	"files": ["README.md", "assets/"],
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+    "worker-loader": "^3.0.8"
+  }
+}
