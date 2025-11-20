@@ -20,7 +20,7 @@ export default function extractPrimitiveVertexData(primitive)
       || (primitive.vertexAttributes && primitive.vertexAttributes.find(a => a.semantic === 'POSITION'))
 
     const indexBuffer = primitive.indices || primitive.indexBuffer
-    if (!attribute || !attribute.buffer || !indexBuffer || !indexBuffer.buffer) return null
+    // if (!attribute || !attribute.buffer || !indexBuffer || !indexBuffer.buffer) return null
 
     // 根据顶点属性类型返回每个顶点的分量数量
     const getNumComponents = (type) =>
@@ -132,6 +132,9 @@ export default function extractPrimitiveVertexData(primitive)
         positions[i * 3 + 2] = readComponent(dataView, base + 2 * compSize, attribute.componentDatatype)
       }
     }
+
+    // 如果没有索引（非索引模型，则模型顶点是按顺序排列的），直接返回 positions
+    if (!indexBuffer) return { positions }
 
     // --- 读取索引数组 ---
     const ibufObj = indexBuffer.buffer
